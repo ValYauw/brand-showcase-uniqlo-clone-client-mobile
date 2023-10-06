@@ -9,6 +9,10 @@ Example mobile application (React Native) for a brand showcase web and mobile ap
  - React Native Navigation
  - React Native Paper
 
+## Configuration
+
+Change the URL of the back-end API entrypoint in `config/api.js`.
+
 ## Demo
 
 ![Demo Screenshot](demo.PNG)

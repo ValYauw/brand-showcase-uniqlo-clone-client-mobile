@@ -5,7 +5,6 @@ import { GET_PRODUCTS } from '../config/queries';
 
 import { FlatList, StyleSheet, View } from 'react-native';
 import { Button } from 'react-native-paper';
-// import useFetch from '../hooks/fetch';
 
 import HeroCard from '../components/HeroCard';
 import ProductCard from "../components/ProductCard";
